@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr404d4rk
-- 👀 I’m interested in Computer Science,Cyber Security,etc..
+- 👀 I’m interested in Computer Science, Programming, Security Stuff etc..
 - 🌱 I’m currently learning Programming at UCSM(University of Computer Studies, Mandalay)
 - 📫 How to reach me 
 <!---
