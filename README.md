@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mr404d4rk
+- 👋 Hi, I’m Bhone Kyaw.
 - 👀 I’m interested in Computer Science, Programming, Security Stuff etc..
 - 🌱 I’m currently learning Programming at UCSM(University of Computer Studies, Mandalay)
 - 📫 How to reach me 
